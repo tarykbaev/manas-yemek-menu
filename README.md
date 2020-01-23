@@ -1,3 +1,3 @@
 # Manas Yemek Menu
 
-![](screen.jpg)
+![](screen.jpeg)
