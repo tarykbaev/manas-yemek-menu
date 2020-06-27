@@ -1,4 +1,4 @@
-# Manas Yemek Menu
+# Manas Food Menu
 
 <img src="screen.jpeg" width="344" height="640">
 
